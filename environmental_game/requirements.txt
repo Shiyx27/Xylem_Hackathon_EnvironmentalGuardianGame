@@ -1,0 +1,7 @@
+Flask==2.3.3
+Werkzeug==2.3.7
+gunicorn==21.2.0
+requests==2.31.0
+python-dotenv==1.0.0
+pytz==2023.3
+openmeteo-requests==1.2.0
