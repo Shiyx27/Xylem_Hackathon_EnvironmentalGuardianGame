@@ -1,4 +1,4 @@
-Check out the game @ https://environmentalguardian.onrender.com/
+Check out the game @https://searious.pythonanywhere.com/ and  https://environmentalguardian.onrender.com/
 
 
 
